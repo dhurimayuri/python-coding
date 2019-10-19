@@ -1,0 +1,6 @@
+if a<=b:
+  print("A")
+elif a<b:
+    print("B")
+else:
+ print('a is greater than b')
